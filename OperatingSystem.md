@@ -2,7 +2,8 @@
 
 * 《Operating Systems Three Easy pieces》(OSTEP 操作系统导论)
 - [现代操作系统 原理与实现 pdf](https://ipads.se.sjtu.edu.cn/mospi/)
-- [上海交通大学 操作系统](https://www.cnmooc.org/study/unit/492853.mooc)
+- [上海交通大学 操作系统网课](https://www.cnmooc.org/study/unit/492853.mooc)
+- [上海交通大学 操作系统课程](https://ipads.se.sjtu.edu.cn/courses/os/)
 - [MIT 6.828 操作系统](https://pdos.csail.mit.edu/6.828/2018/schedule.html)
 - [斯坦福 cs124 操作系统](http://users.cms.caltech.edu/~donnie/cs124/lectures/)
 - [进程栈 线程栈 内核栈 中断栈](https://blog.csdn.net/yangkuanqaz85988/article/details/52403726)

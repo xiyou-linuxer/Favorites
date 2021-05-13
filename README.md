@@ -24,6 +24,7 @@
 - [GNU/Linux 使用](Linux.md)
 - [Shell 编程](Shell.md)
 - [Web 服务器](WebServer.md)
+- [汇编](Asm.md)
 - [有趣的地方](JustForFun.md)
 
 ### Contribute
