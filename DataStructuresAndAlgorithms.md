@@ -1,5 +1,7 @@
 ## 算法
 
+### Wiki
+
 - [OI Wiki](https://oi-wiki.org/)
 
 ### 串
