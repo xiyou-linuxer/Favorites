@@ -24,12 +24,3 @@
 ### 密码管理器
 
 - [keepassXC](https://github.com/keepassxreboot/keepassxc)
-
-### 工程编译
-
-- c++
-
-   [xmake](https://github.com/xmake-io/xmake/)
-
-   [bazel](https://github.com/bazelbuild/bazel)
-
