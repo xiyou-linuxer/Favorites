@@ -9,6 +9,7 @@
 
 - [版权指引](CopyrightGuidelines.md)
 - [编程语言](ProgrammingLanguage.md)
+- [调试器](Debugger.md)
 - [博客](Blog.md)
 - [操作系统](OperatingSystem.md)
 - [分布式](Distributed.md)
