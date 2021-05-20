@@ -26,7 +26,7 @@
 - [Web 服务器](WebServer.md)
 - [汇编](Asm.md)
 - [有趣的地方](JustForFun.md)
-- [编译工具](/home/bokket/Favoritecompilation.md)
+- [编译工具](Compilation.md)
 
 ### Contribute
 
