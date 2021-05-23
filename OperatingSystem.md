@@ -28,3 +28,15 @@
 - [可持久化内存](https://pmem.io/repoindex)
 - [为什么程序员需要关心顺序一致性（Sequential Consistency）而不是Cache一致性（Cache Coherence？）](http://www.parallellabs.com/2010/03/06/why-should-programmer-care-about-sequential-consistency-rather-than-cache-coherence/)
 - [缓存一致性](https://en.wikipedia.org/wiki/Cache_coherence)
+
+
+### 虚拟内存
+- [进程如何找到pgd页表，页表的数据结构是什么？](https://www.zhihu.com/question/407985097/answer/1354598494)
+- [pagemap.txt](https://www.kernel.org/doc/Documentation/vm/pagemap.txt)
+- [如何理解虚拟内存](https://zhuanlan.zhihu.com/p/96098896)
+- [phys_to_virt/virt_to_phys](https://blog.csdn.net/weixin_41028621/article/details/104506478)
+
+
+### 协程
+- [协程介绍](https://blog.panicsoftware.com/coroutines-introduction/)
+- [boost Coroutine2 docs](https://www.boost.org/doc/libs/1_76_0/libs/coroutine2/doc/html/index.html)

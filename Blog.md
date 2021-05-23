@@ -15,3 +15,4 @@
 - [vorbrodt](https://vorbrodt.blog/)
 - [yy哥的技术](https://www.cnblogs.com/hustcat)
 - [康宇PL's Blog](cnblogs.com/kangyupl/)
+- [antirez.com](http://antirez.com/latest/0)

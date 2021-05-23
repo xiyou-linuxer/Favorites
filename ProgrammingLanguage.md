@@ -18,5 +18,6 @@
 - [c++ 位图 (data_struct)](https://github.com/lemire/EWAHBoolArray)
 - [c++ 线程池](https://github.com/progschj/ThreadPool)
 - [c++ 实现pystring?](https://github.com/imageworks/pystring)
+- [boost docs](https://www.boost.org/doc/libs/)
 ### Python
 - [pytorch手册(zh-cn)](https://github.com/zergtant/pytorch-handbook)
