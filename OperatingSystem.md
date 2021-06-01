@@ -40,3 +40,8 @@
 ### 协程
 - [协程介绍](https://blog.panicsoftware.com/coroutines-introduction/)
 - [boost Coroutine2 docs](https://www.boost.org/doc/libs/1_76_0/libs/coroutine2/doc/html/index.html)
+- [C/C++ 协程库boost.coroutine2、魅族libgo、腾讯libco、开源libaco详解](https://blog.csdn.net/zzhongcy/article/details/89515037)
+- [深入浅出c++协程](cnblogs.com/ishen/p/14617708.html)
+
+### 异步IO
+[《操作系统与存储：解析Linux内核全新异步IO引擎——io_uring设计与实现》(一)](https://zhuanlan.zhihu.com/p/334658432)
