@@ -11,6 +11,7 @@
 - [C 语言做翻译工作的api:gettext](https://zh.wikipedia.org/wiki/Gettext)
 
 ### C++
+- [c++ 优秀开源项目](https://bestofcpp.com/)
 - [C++并发编程实战 (zh_cn) 另翻版本](https://github.com/xiaoweiChen/CPP-Concurrency-In-Action-2ed-2019)
 - [C++的一些books pdf](https://github.com/adlternative/cbook)
 - [Awesome C++](https://github.com/fffaraz/awesome-cpp)
