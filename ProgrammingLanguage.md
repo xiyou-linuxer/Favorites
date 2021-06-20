@@ -12,6 +12,7 @@
 
 ### C++
 - [c++ 优秀开源项目](https://bestofcpp.com/)
+- [Modern CPP](https://www.modernescpp.com/)
 - [C++并发编程实战 (zh_cn) 另翻版本](https://github.com/xiaoweiChen/CPP-Concurrency-In-Action-2ed-2019)
 - [C++的一些books pdf](https://github.com/adlternative/cbook)
 - [Awesome C++](https://github.com/fffaraz/awesome-cpp)
@@ -25,7 +26,6 @@
 - [C++ 线程池](https://github.com/progschj/ThreadPool)
 - [C++ 实现pystring?](https://github.com/imageworks/pystring)
 - [现代 C++ 教程：高速上手 C++ 11/14/17/20](https://github.com/changkun/modern-cpp-tutorial)
-
 
 ### Python
 - [pytorch手册(zh-cn)](https://github.com/zergtant/pytorch-handbook)

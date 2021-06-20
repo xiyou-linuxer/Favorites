@@ -25,3 +25,5 @@
 - [logo-ls](https://github.com/Yash-Handa/logo-ls)
 - [openssh](https://github.com/openssh/openssh-portable)
 - [libssh](https://api.libssh.org/stable/)
+- [berrysoft.github.io](https://berrysoft.github.io/)
+- [在线编译器](https://godbolt.org)
