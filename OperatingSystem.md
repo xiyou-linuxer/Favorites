@@ -28,7 +28,7 @@
 - [可持久化内存](https://pmem.io/repoindex)
 - [为什么程序员需要关心顺序一致性（Sequential Consistency）而不是Cache一致性（Cache Coherence？）](http://www.parallellabs.com/2010/03/06/why-should-programmer-care-about-sequential-consistency-rather-than-cache-coherence/)
 - [缓存一致性](https://en.wikipedia.org/wiki/Cache_coherence)
-
+- [操作系统实战45讲](https://time.geekbang.org/column/intro/411)
 
 ### 虚拟内存
 - [进程如何找到pgd页表，页表的数据结构是什么？](https://www.zhihu.com/question/407985097/answer/1354598494)
