@@ -17,3 +17,4 @@
 - [康宇PL's Blog](cnblogs.com/kangyupl/)
 - [antirez.com](http://antirez.com/latest/0)
 - [Felipe Contreras's personal blog](https://felipec.wordpress.com/)
+- [eli.thegreenplace.net](https://eli.thegreenplace.net/archives/all)

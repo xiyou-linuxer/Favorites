@@ -26,6 +26,7 @@
 - [C++ 线程池](https://github.com/progschj/ThreadPool)
 - [C++ 实现pystring?](https://github.com/imageworks/pystring)
 - [现代 C++ 教程：高速上手 C++ 11/14/17/20](https://github.com/changkun/modern-cpp-tutorial)
+- [CppCoreGuidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines)
 
 ### Python
 - [pytorch手册(zh-cn)](https://github.com/zergtant/pytorch-handbook)
