@@ -21,6 +21,7 @@
 - [Linux 内核中内存序的文档](https://www.kernel.org/doc/Documentation/memory-barriers.txt)
 - [内存序的论文](http://irl.cs.ucla.edu/~yingdi/web/paperreading/whymb.2010.06.07c.pdf)
 - [深入理解计算机系统（含中文字幕）](https://www.bilibili.com/video/BV1iW411d7hd)
+- [CSAPP Lab Assignments](http://csapp.cs.cmu.edu/3e/labs.html)
 - [操作系统的基本原理与简单实现 （清华）](https://github.com/chyyuu/simple_os_book)
 - [Simple kernel](https://github.com/Simple-XX/SimpleKernel)
 - [死锁检测](https://ivanzz1001.github.io/records/post/cplusplus/2018/11/15/linux-deadlock-detect#41-pstack)
