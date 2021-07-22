@@ -60,3 +60,10 @@
 ### 性能测试
 
 - [Flame Graphs](http://www.brendangregg.com/flamegraphs.html)
+
+### futex
+
+- [futex.pdf](https://akkadia.org/drepper/futex.pdf)
+- [Requeue-PI: Making Glibc Condvars PI-Aware](https://static.lwn.net/images/conf/rtlws11/papers/proc/p10.pdf)
+- [A description of what robust futexes are](https://www.kernel.org/doc/Documentation/robust-futexes.txt)
+- 

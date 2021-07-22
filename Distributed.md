@@ -8,3 +8,4 @@
 * [MIT 6.824涉及的部分论文翻译](https://blog.csdn.net/weixin_43705457/article/details/106083524)
 * [GFS，MapReduce，BigTable论文高质量翻译](https://blog.csdn.net/weixin_43705457/article/details/105737012)
 
+- [MapReduce:Simplified Data Processing on Large Clusters](https://research.google.com/archive/mapreduce-osdi04-slides/index.html)
