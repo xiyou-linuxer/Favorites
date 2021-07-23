@@ -19,15 +19,12 @@
 - [网络编程](NetworkProgramming.md)
 - [文档撰写](Documentation.md)
 - [项目教学列表](ProjectList.md)
-- [虚拟化](Virtualization.md)
 - [正则表达式](Regex.md)
-- [Git 相关](Git.md)
+- [Git](Git.md)
 - [GNU/Linux 使用](Linux.md)
 - [Shell 编程](Shell.md)
-- [Web 服务器](WebServer.md)
 - [汇编](Asm.md)
 - [有趣的地方](JustForFun.md)
-- [编译工具](Compilation.md)
 
 ### Contribute
 

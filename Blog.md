@@ -18,3 +18,6 @@
 - [antirez.com](http://antirez.com/latest/0)
 - [Felipe Contreras's personal blog](https://felipec.wordpress.com/)
 - [eli.thegreenplace.net](https://eli.thegreenplace.net/archives/all)
+- [berrysoft.github.io](https://berrysoft.github.io/)
+- [fabiensanglard](https://fabiensanglard.net/)
+- [aosabook.org](http://aosabook.org/en/intro2.html#potter-susan)

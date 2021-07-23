@@ -17,6 +17,8 @@
 - [为什么程序员需要关心顺序一致性（Sequential Consistency）而不是Cache一致性（Cache Coherence？）](http://www.parallellabs.com/2010/03/06/why-should-programmer-care-about-sequential-consistency-rather-than-cache-coherence/)
 - [内存序的论文](http://irl.cs.ucla.edu/~yingdi/web/paperreading/whymb.2010.06.07c.pdf)
 - [Linux 内核中内存序的文档](https://www.kernel.org/doc/Documentation/memory-barriers.txt)
+- [为什么x86中只有storeload可以重排序呢？](https://www.zhihu.com/question/274310265/answer/1271612645)
+- [Intel_Reordering_318147.pdf](http://www.cs.cmu.edu/\~410-f10/doc/Intel_Reordering_318147.pdf)
 
 ### 计算机架构
 
@@ -38,7 +40,9 @@
 
 ### 异步IO
 
+- [io_uring.pdf](https://kernel.dk/io_uring.pdf)
 - [《操作系统与存储：解析Linux内核全新异步IO引擎——io_uring设计与实现》(一)](https://zhuanlan.zhihu.com/p/334658432)
+- [how-io_uring-and-ebpf-will-revolutionize-programming-in-linux](https://www.scylladb.com/2020/05/05/how-io_uring-and-ebpf-will-revolutionize-programming-in-linux/)
 
 ### 性能测试
 
@@ -63,10 +67,16 @@
 
 ### Linux 技术
 
-- [chroot](https://www.cnblogs.com/sparkdev/p/8556075.html)
 - [/proc 文档](http://lxr.linux.no/linux+v2.6.32/Documentation/filesystems/proc.txt)
 
 #### futex
 - [futex.pdf](https://akkadia.org/drepper/futex.pdf)
 - [Requeue-PI: Making Glibc Condvars PI-Aware](https://static.lwn.net/images/conf/rtlws11/papers/proc/p10.pdf)
 - [A description of what robust futexes are](https://www.kernel.org/doc/Documentation/robust-futexes.txt)
+
+#### cgroup 和 namespace
+- [cgroup-v2](https://www.kernel.org/doc/Documentation/cgroup-v2.txt)
+- [intel Namespaces and cgroups](https://netdevconf.info/1.1/proceedings/slides/rosen-namespaces-cgroups-lxc.pdf)
+- [Linux kernel Namespaces and cgroups](http://www.haifux.org/lectures/299/netLec7.pdf)
+- [cgroups wiki](https://en.wikipedia.org/wiki/Cgroups)
+- [chroot](https://www.cnblogs.com/sparkdev/p/8556075.html)

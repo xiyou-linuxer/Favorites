@@ -9,6 +9,7 @@
 ### C
 - [C 语言实现c++ vector](https://github.com/eteran/c-vector)
 - [C 语言做翻译工作的api:gettext](https://zh.wikipedia.org/wiki/Gettext)
+- [c语言做翻译工作的api:gettext](https://zh.wikipedia.org/wiki/Gettext)
 
 ### C++
 - [c++ 优秀开源项目](https://bestofcpp.com/)
