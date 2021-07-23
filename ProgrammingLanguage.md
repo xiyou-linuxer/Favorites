@@ -27,6 +27,22 @@
 - [C++ 实现pystring?](https://github.com/imageworks/pystring)
 - [现代 C++ 教程：高速上手 C++ 11/14/17/20](https://github.com/changkun/modern-cpp-tutorial)
 - [CppCoreGuidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines)
+### C++ 协程
+
+- [C++ 链接：协程](https://gist.github.com/MattPD/9b55db49537a90545a90447392ad3aeb)
+- [协程介绍](https://blog.panicsoftware.com/coroutines-introduction/)
+- [boost Coroutine2 docs](https://www.boost.org/doc/libs/1_76_0/libs/coroutine2/doc/html/index.html)
+- [C/C++ 协程库boost.coroutine2、魅族libgo、腾讯libco、开源libaco详解](https://blog.csdn.net/zzhongcy/article/details/89515037)
+- [深入浅出c++协程](cnblogs.com/ishen/p/14617708.html)
+- [C++20协程初探](https://zhuanlan.zhihu.com/p/218156339)
+- [convert-state-machine-coroutine-slides-1.pdf](https://cppnow.digital-medium.co.uk/wp-content/uploads/2021/04/convert-state-machine-coroutine-slides-1.pdf)
+- [协程(C++20)](https://en.cppreference.com/w/cpp/language/coroutines)
+- [luncliff/coroutine](https://github.com/luncliff/coroutine)
+- [lewissbaker/cppcoro](https://github.com/lewissbaker/cppcoro#io_service-and-io_work_scope)
+- [C++20 协程示例](https://mariusbancila.ro/blog/2020/06/22/a-cpp20-coroutine-example/)
+- [C++ coroutines: Making it impossible to co_await a task twice](https://devblogs.microsoft.com/oldnewthing/20210414-00/?p=105095)
+- [My tutorial and take on C++20 coroutines](https://www.scs.stanford.edu/~dm/blog/c++-coroutines.html)
+- [boost: Coroutines TS Support](https://www.boost.org/doc/libs/1_76_0/doc/html/boost_asio/overview/core/coroutines_ts.html)
 
 ### Python
 - [pytorch手册(zh-cn)](https://github.com/zergtant/pytorch-handbook)
