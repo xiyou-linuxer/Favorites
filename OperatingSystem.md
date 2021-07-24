@@ -13,12 +13,14 @@
 
 ### 内存序
 
-- [缓存一致性](https://en.wikipedia.org/wiki/Cache_coherence)
 - [为什么程序员需要关心顺序一致性（Sequential Consistency）而不是Cache一致性（Cache Coherence？）](http://www.parallellabs.com/2010/03/06/why-should-programmer-care-about-sequential-consistency-rather-than-cache-coherence/)
 - [内存序的论文](http://irl.cs.ucla.edu/~yingdi/web/paperreading/whymb.2010.06.07c.pdf)
 - [Linux 内核中内存序的文档](https://www.kernel.org/doc/Documentation/memory-barriers.txt)
 - [为什么x86中只有storeload可以重排序呢？](https://www.zhihu.com/question/274310265/answer/1271612645)
 - [Intel_Reordering_318147.pdf](http://www.cs.cmu.edu/\~410-f10/doc/Intel_Reordering_318147.pdf)
+- [缓存一致性](https://en.wikipedia.org/wiki/Cache_coherence)
+- [内存一致性模型-TSO](https://zhuanlan.zhihu.com/p/141655129)
+- [《现代操作系统 原理与实现》 第十二章：多核与多处理器](https://ipads.se.sjtu.edu.cn/mospi/)
 
 ### 计算机架构
 
@@ -43,7 +45,8 @@
 - [io_uring.pdf](https://kernel.dk/io_uring.pdf)
 - [《操作系统与存储：解析Linux内核全新异步IO引擎——io_uring设计与实现》(一)](https://zhuanlan.zhihu.com/p/334658432)
 - [how-io_uring-and-ebpf-will-revolutionize-programming-in-linux](https://www.scylladb.com/2020/05/05/how-io_uring-and-ebpf-will-revolutionize-programming-in-linux/)
-
+- [libunifex](https://github.com/facebookexperimental/libunifex)
+- [Lord of the io_uring](https://unixism.net/loti/index.html)
 ### 性能测试
 
 - [Flame Graphs](http://www.brendangregg.com/flamegraphs.html)
@@ -52,7 +55,7 @@
 
 - [操作系统的基本原理与简单实现 （清华）](https://github.com/chyyuu/simple_os_book)
 - [CSAPP Lab Assignments](http://csapp.cs.cmu.edu/3e/labs.html)
-- [现代操作系统 原理与实现 pdf](https://ipads.se.sjtu.edu.cn/mospi/)
+- [现代操作系统 原理与实现 网页版 pdf](https://ipads.se.sjtu.edu.cn/mospi/)
 - [上海交通大学 操作系统网课](https://www.cnmooc.org/study/unit/492853.mooc)
 - [上海交通大学 操作系统课程](https://ipads.se.sjtu.edu.cn/courses/os/)
 - [MIT 6.828 操作系统](https://pdos.csail.mit.edu/6.828/2018/schedule.html)
@@ -60,7 +63,6 @@
 - [操作系统实战45讲](https://time.geekbang.org/column/intro/411)
 * 《Operating Systems Three Easy pieces》(OSTEP 操作系统导论)
 - [深入理解计算机系统（含中文字幕）](https://www.bilibili.com/video/BV1iW411d7hd)
-
 ### 自制操作系统
 
 - [Simple kernel](https://github.com/Simple-XX/SimpleKernel)
