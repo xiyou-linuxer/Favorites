@@ -47,6 +47,10 @@
 - [how-io_uring-and-ebpf-will-revolutionize-programming-in-linux](https://www.scylladb.com/2020/05/05/how-io_uring-and-ebpf-will-revolutionize-programming-in-linux/)
 - [libunifex](https://github.com/facebookexperimental/libunifex)
 - [Lord of the io_uring](https://unixism.net/loti/index.html)
+- [sun_mengyue/io_uring_coro](https://github.com/CarterLi/liburing4cpp)
+- [用 C++20 协程包装 io_uring 读取](https://zhuanlan.zhihu.com/p/357262548)
+- [ceph/io_uring.cc](https://github.com/ceph/ceph/blob/master/src/blk/kernel/io_uring.cc)
+- [folly/ioUring.cpp](https://github.com/facebook/folly/blob/master/folly/experimental/io/IoUring.cpp)
 ### 性能测试
 
 - [Flame Graphs](http://www.brendangregg.com/flamegraphs.html)
@@ -82,3 +86,7 @@
 - [Linux kernel Namespaces and cgroups](http://www.haifux.org/lectures/299/netLec7.pdf)
 - [cgroups wiki](https://en.wikipedia.org/wiki/Cgroups)
 - [chroot](https://www.cnblogs.com/sparkdev/p/8556075.html)
+
+### nonblock
+- [nonblock](https://www.remlab.net/op/nonblock.shtml)
+- [why-non-blocking-write-to-disk-doesnt-return-eagain-or-ewouldblock](https://stackoverflow.com/questions/28522848/why-non-blocking-write-to-disk-doesnt-return-eagain-or-ewouldblock)

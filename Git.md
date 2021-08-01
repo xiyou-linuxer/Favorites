@@ -32,3 +32,9 @@
 
 ### Git 库
 - [libgit2](https://libgit2.org/)
+
+### 更快的源码搜索
+- [grep.app](https://grep.app/)
+
+### 网页在线版 vscode
+- [github1s](https://github1s.com/)

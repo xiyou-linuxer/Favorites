@@ -28,6 +28,7 @@
 - [C++ 实现pystring?](https://github.com/imageworks/pystring)
 - [现代 C++ 教程：高速上手 C++ 11/14/17/20](https://github.com/changkun/modern-cpp-tutorial)
 - [CppCoreGuidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines)
+- [RTTI 有多贵](https://stackoverflow.com/questions/579887/how-expensive-is-rtti)
 ### C++ 协程
 
 - [C++ 链接：协程](https://gist.github.com/MattPD/9b55db49537a90545a90447392ad3aeb)
