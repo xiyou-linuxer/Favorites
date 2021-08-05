@@ -46,5 +46,12 @@
 - [My tutorial and take on C++20 coroutines](https://www.scs.stanford.edu/~dm/blog/c++-coroutines.html)
 - [boost: Coroutines TS Support](https://www.boost.org/doc/libs/1_76_0/doc/html/boost_asio/overview/core/coroutines_ts.html)
 
+### C++ 命令行解析库
+- [gflags](https://github.com/gflags/gflags)
+- [cmdline](https://github.com/tanakh/cmdline)
+
+### C++ 社区
+- [isocpp](https://isocpp.org/)
+
 ### Python
 - [pytorch手册(zh-cn)](https://github.com/zergtant/pytorch-handbook)
