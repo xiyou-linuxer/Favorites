@@ -52,3 +52,11 @@
 ### 比赛
 
 - [骇客马拉松](https://hacktoberfest.digitalocean.com/)
+
+### 编程语言排行榜
+
+- [tiobe](https://www.tiobe.com/tiobe-index/)
+
+###  论文
+
+- [acm](https://dl.acm.org/)

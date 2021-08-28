@@ -55,3 +55,7 @@
 
 ### Python
 - [pytorch手册(zh-cn)](https://github.com/zergtant/pytorch-handbook)
+
+
+### Golang
+- [Go 并发模式](https://talks.golang.org/2012/concurrency.slide#54)

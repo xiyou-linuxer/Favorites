@@ -44,3 +44,7 @@
 ### 网络架构
 
 - [M:N协程原理与设计](https://zhuanlan.zhihu.com/p/362621806)
+
+### RPC
+
+- [sending-files-via-grpc](https://ops.tips/blog/sending-files-via-grpc/)
