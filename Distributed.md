@@ -20,3 +20,4 @@
 
 ### 分布式论文刊物
 - [acm: Distributed architectures](https://dl.acm.org/topic/ccs2012/10010520.10010521.10010537?ContentGroupKey=10.1145%2F3427796&expand=all)
+- [research.google: Distributed Systems and Parallel Computing](https://research.google/research-areas/distributed-systems-and-parallel-computing/)

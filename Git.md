@@ -20,7 +20,7 @@
 
 - [Hacking-Git](https://git.github.io/Hacking-Git/)
 - [Git-User 邮件列表](https://groups.google.com/g/git-users/c/yb8n-gVroWg)
-- [如何开始学习Git源码并做出贡献](https://www.geek-book.com/src/docs/git/git/git-scm.com/docs/MyFirstContribution.html)
+- [如何开始学习Git源码并做出贡献](https://git-scm.com/docs/MyFirstContribution#howto-ggg)
 ### Git 实现
 
 - [教你写自己的git(python)](https://wyag.thb.lt/#org73cbeb2)
