@@ -8,3 +8,4 @@
 
 ### 课程
 - [CMU 15-445](https://15445.courses.cs.cmu.edu/fall2021/)
+- [CS265](http://daslab.seas.harvard.edu/classes/cs265/index.html#overview)

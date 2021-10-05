@@ -10,7 +10,6 @@
 - [版权指引](CopyrightGuidelines.md)
 - [编程语言](ProgrammingLanguage.md)
 - [调试器](Debugger.md)
-- [博客](Blog.md)
 - [操作系统](OperatingSystem.md)
 - [分布式](Distributed.md)
 - [工具](Tools.md)
@@ -25,6 +24,7 @@
 - [Shell 编程](Shell.md)
 - [汇编](Asm.md)
 - [有趣的地方](JustForFun.md)
+- [博客](Blog.md)
 
 ### Contribute
 
