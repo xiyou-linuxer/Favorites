@@ -23,3 +23,4 @@
 - [aosabook.org](http://aosabook.org/en/intro2.html#potter-susan)
 - [unixism](https://unixism.net/)
 - [draveness.me/](https://draveness.me/)
+- [安德鲁·克罗蒂](http://cs.brown.edu/people/acrotty/)
