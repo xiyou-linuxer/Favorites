@@ -24,3 +24,5 @@
 - [unixism](https://unixism.net/)
 - [draveness.me/](https://draveness.me/)
 - [安德鲁·克罗蒂](http://cs.brown.edu/people/acrotty/)
+- [lamport](https://lamport.azurewebsites.net)
+- [aphyr](https://aphyr.com)

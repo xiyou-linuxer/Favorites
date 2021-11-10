@@ -13,6 +13,10 @@
 - [Raft Consensus Algorithm](https://raft.github.io/)
 - [raft.github.io](https://raft.github.io/)
 - [raft-zh_cn](https://github.com/maemual/raft-zh_cn/blob/master/raft-zh_cn.md)
+- [raft 优化](https://zhuanlan.zhihu.com/p/25735592)
+
+### CAP
+- [cap-faq](https://www.the-paper-trail.org/page/cap-faq/)
 
 
 ### Books
