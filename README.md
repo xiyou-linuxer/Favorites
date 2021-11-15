@@ -11,7 +11,7 @@
 - [编程语言](ProgrammingLanguage.md)
 - [调试器](Debugger.md)
 - [操作系统](OperatingSystem.md)
-- [分布式](Distributed.md)
+- [分布式系统](DistributedSystem.md)
 - [工具](Tools.md)
 - [数据结构与算法](DataStructuresAndAlgorithms.md)
 - [数据库](DataBase.md)
