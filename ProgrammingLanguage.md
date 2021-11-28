@@ -6,6 +6,7 @@
 - [Master Go (zh_cn)](https://github.com/hantmac/Mastering_Go_ZH_CN)
 - [Go 语言圣经(zh_cn)](https://github.com/gopl-zh/gopl-zh.github.com)
 - [Go 语言设计与实现](https://draveness.me/golang/)
+- [Golang 新手可能会踩的 50 个坑](https://segmentfault.com/a/1190000013739000###)
 ### C
 - [C 语言实现c++ vector](https://github.com/eteran/c-vector)
 - [C 语言做翻译工作的api:gettext](https://zh.wikipedia.org/wiki/Gettext)
