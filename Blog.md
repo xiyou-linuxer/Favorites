@@ -26,6 +26,7 @@
 - [安德鲁·克罗蒂](http://cs.brown.edu/people/acrotty/)
 - [lamport](https://lamport.azurewebsites.net)
 - [aphyr](https://aphyr.com)
+- [vigourtyy-zhg](https://vigourtyy-zhg.blog.csdn.net/)
 
 ### 知乎
 - [迟策](https://www.zhihu.com/people/SkyZH)

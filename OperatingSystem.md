@@ -1,5 +1,13 @@
 ### 操作系统
 
+### 页面缓存
+
+- [hcache](https://github.com/silenceshell/hcache)
+
+### IO 队列深度
+
+- [azure](https://docs.microsoft.com/zh-cn/azure/virtual-machines/premium-storage-performance#queue-depth)
+
 ### 进程 线程
 
 - [多核技术导论之操作系统对多核处理器的支持方法](https://software.intel.com/content/www/cn/zh/develop/articles/book-multicore-multithread-technology_operating_system_support_for_multicore_processors_methods.html)
@@ -67,6 +75,7 @@
 - [操作系统实战45讲](https://time.geekbang.org/column/intro/411)
 * 《Operating Systems Three Easy pieces》(OSTEP 操作系统导论)
 - [深入理解计算机系统（含中文字幕）](https://www.bilibili.com/video/BV1iW411d7hd)
+
 ### 自制操作系统
 
 - [Simple kernel](https://github.com/Simple-XX/SimpleKernel)
