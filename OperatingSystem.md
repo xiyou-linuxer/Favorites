@@ -83,6 +83,7 @@
 ### Linux 技术
 
 - [/proc 文档](http://lxr.linux.no/linux+v2.6.32/Documentation/filesystems/proc.txt)
+- [你管这破玩意叫操作系统源码](https://github.com/sunym1993/flash-linux0.11-talk)
 
 #### futex
 - [futex.pdf](https://akkadia.org/drepper/futex.pdf)
