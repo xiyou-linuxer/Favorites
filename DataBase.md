@@ -8,6 +8,10 @@
 - [google/leveldb](https://github.com/google/leveldb)
 - [bigtable-leveldb](https://draveness.me/bigtable-leveldb/)
 - [wisckey](https://www.usenix.org/system/files/conference/fast16/fast16-papers-lu.pdf)
+- [rocksdb.org blog](http://rocksdb.org/blog/)
+- [smalldatum.blogspot.com](http://smalldatum.blogspot.com/)
+- [LSM Tree的Leveling 和 Tiering Compaction](https://zhuanlan.zhihu.com/p/112574579)
+
 
 ### 课程
 - [CMU 15-445](https://15445.courses.cs.cmu.edu/fall2021/)
@@ -17,6 +21,13 @@
 - [MIT 6.830](http://dsg.csail.mit.edu/6.830/sched.php)
 - [HARVARD CS265](http://daslab.seas.harvard.edu/classes/cs265/index.html#overview)
 
+
+### 书籍
+
+- 《数据密集型应用系统设计》
+- 《数据库系统内幕》
+
+
 ### 查询优化
 
 - [墨天轮](https://www.modb.pro/db/60303)
@@ -25,10 +36,13 @@
 
 - [abadi-column-stores](https://www.cs.umd.edu/class/spring2015/cmsc724/abadi-column-stores.pdf)
 
-### 前沿研究
-- [fdresearch](https://fdbresearch.github.io/index.html)
 
-### 文档
+### 数据库操作文档
 - [MySql 中文文档](https://www.docs4dev.com/docs/zh/mysql/5.7/reference)
 - [X DevAPI](https://dev.mysql.com/doc/x-devapi-userguide/en/)
 - [Mariadb 提供的c++接口](https://mariadb.com/docs/clients/connector-cpp/)
+
+
+### Blogs
+
+- [database-techiques-everyone-should-know](https://blog.acolyer.org/2016/01/03/database-techiques-everyone-should-know/)
