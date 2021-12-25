@@ -6,6 +6,7 @@
 - [app-ideas](https://github.com/florinpop17/app-ideas)
 - [程序员应该去的最好的网站](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
 - [开源社会大学](https://github.com/ossu/computer-science)
+- [加州伯克利分校课程整理](https://zhuanlan.zhihu.com/p/392093161)
 
 
 ### 网页在线剪切板
