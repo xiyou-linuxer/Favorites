@@ -46,3 +46,8 @@
 ### Blogs
 
 - [database-techiques-everyone-should-know](https://blog.acolyer.org/2016/01/03/database-techiques-everyone-should-know/)
+- [nosqlnotes](http://www.nosqlnotes.com/)
+
+### 刊物
+
+- [data-management](https://research.google/pubs/?area=data-management)

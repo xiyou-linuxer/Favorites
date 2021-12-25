@@ -16,6 +16,15 @@
 - [raft 优化](https://zhuanlan.zhihu.com/p/25735592)
 
 
+### consistency
+
+- [consistency](https://jepsen.io/consistency)
+- [summarizing-consistency-model](http://r12f.com/posts/summarizing-consistency-model/)
+- [如何理解数据库的内部一致性和外部一致性？](https://www.zhihu.com/question/56073588)
+
+### 分布式时序
+- [分布式事务中的时间戳](https://ericfu.me/timestamp-in-distributed-trans/)
+
 ### f1
 - [Schema 变更在 Google F1 的实践](https://hhwyt.xyz/2021-03-27-online-async-schema-change-in-f1/)
 

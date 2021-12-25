@@ -29,6 +29,7 @@
 - [缓存一致性](https://en.wikipedia.org/wiki/Cache_coherence)
 - [内存一致性模型-TSO](https://zhuanlan.zhihu.com/p/141655129)
 - [《现代操作系统 原理与实现》 第十二章：多核与多处理器](https://ipads.se.sjtu.edu.cn/mospi/)
+- [锁、内存屏障与缓存一致性](https://gocode.cc/project/9/article/128)
 
 ### 计算机架构
 
@@ -79,7 +80,7 @@
 ### 自制操作系统
 
 - [Simple kernel](https://github.com/Simple-XX/SimpleKernel)
-
+- [How-to-Make-a-Computer-Operating-System](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System)
 ### Linux 技术
 
 - [/proc 文档](http://lxr.linux.no/linux+v2.6.32/Documentation/filesystems/proc.txt)
