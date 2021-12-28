@@ -30,10 +30,11 @@
 
 ### CAP
 - [cap-faq](https://www.the-paper-trail.org/page/cap-faq/)
-
+- [CAP 理论十二年回顾："规则"变了](https://www.infoq.cn/article/cap-twelve-years-later-how-the-rules-have-changed/)
 
 ### Books
 - [设计数据密集型应用](https://github.com/Vonng/ddia)
+- 分布式数据库 原理，架构与实践
 
 ### 分布式论文刊物
 - [acm: Distributed architectures](https://dl.acm.org/topic/ccs2012/10010520.10010521.10010537?ContentGroupKey=10.1145%2F3427796&expand=all)
