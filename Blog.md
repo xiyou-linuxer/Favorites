@@ -29,6 +29,7 @@
 - [vigourtyy-zhg](https://vigourtyy-zhg.blog.csdn.net/)
 - [catkang](catkang.github.io)
 - [ericfu](https://ericfu.me/)
+- [z_stand](https://vigourtyy-zhg.blog.csdn.net/）
 
 ### 知乎
 - [迟策](https://www.zhihu.com/people/SkyZH)

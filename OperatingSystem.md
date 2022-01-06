@@ -3,7 +3,8 @@
 ### 页面缓存
 
 - [hcache](https://github.com/silenceshell/hcache)
-
+- [缓存替换策略](https://en.wikipedia.org/wiki/Cache_replacement_policies#Least_Recently_Used)
+    
 ### IO 队列深度
 
 - [azure](https://docs.microsoft.com/zh-cn/azure/virtual-machines/premium-storage-performance#queue-depth)

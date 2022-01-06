@@ -5,13 +5,14 @@
 
 ### LSM-Tree
 - [cs265 lsm-tree project](http://daslab.seas.harvard.edu/classes/cs265/project.html)
+- [【Paper笔记】The Log structured Merge-Tree（LSM-Tree）](https://kernelmaker.github.io/lsm-tree)
 - [google/leveldb](https://github.com/google/leveldb)
 - [bigtable-leveldb](https://draveness.me/bigtable-leveldb/)
 - [wisckey](https://www.usenix.org/system/files/conference/fast16/fast16-papers-lu.pdf)
 - [rocksdb.org blog](http://rocksdb.org/blog/)
 - [smalldatum.blogspot.com](http://smalldatum.blogspot.com/)
 - [LSM Tree的Leveling 和 Tiering Compaction](https://zhuanlan.zhihu.com/p/112574579)
-
+- [Constructing and Analyzing the LSM Compaction Design Space](http://vldb.org/pvldb/vol14/p2216-sarkar.pdf)
 
 ### 课程
 - [CMU 15-445](https://15445.courses.cs.cmu.edu/fall2021/)
