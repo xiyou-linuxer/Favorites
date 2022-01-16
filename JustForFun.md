@@ -7,7 +7,8 @@
 - [程序员应该去的最好的网站](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
 - [开源社会大学](https://github.com/ossu/computer-science)
 - [加州伯克利分校课程整理](https://zhuanlan.zhihu.com/p/392093161)
-
+- [comments-for-awesome-courses](https://github.com/conanhujinming/comments-for-awesome-courses/)
+- [awesome-cs-courses-zh](https://github.com/apachecn/awesome-cs-courses-zh)
 
 ### 网页在线剪切板
 

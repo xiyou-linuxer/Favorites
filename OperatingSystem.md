@@ -4,7 +4,7 @@
 
 - [hcache](https://github.com/silenceshell/hcache)
 - [缓存替换策略](https://en.wikipedia.org/wiki/Cache_replacement_policies#Least_Recently_Used)
-    
+
 ### IO 队列深度
 
 - [azure](https://docs.microsoft.com/zh-cn/azure/virtual-machines/premium-storage-performance#queue-depth)
@@ -32,6 +32,7 @@
 - [《现代操作系统 原理与实现》 第十二章：多核与多处理器](https://ipads.se.sjtu.edu.cn/mospi/)
 - [锁、内存屏障与缓存一致性](https://gocode.cc/project/9/article/128)
 
+
 ### 计算机架构
 
 - [cpumemory.pdf](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf)
@@ -45,6 +46,7 @@
 - [pagemap.txt](https://www.kernel.org/doc/Documentation/vm/pagemap.txt)
 - [如何理解虚拟内存](https://zhuanlan.zhihu.com/p/96098896)
 - [phys_to_virt/virt_to_phys](https://blog.csdn.net/weixin_41028621/article/details/104506478)
+- [原来 8 张图，就可以搞懂「零拷贝」了](https://www.cnblogs.com/xiaolincoding/p/13719610.html)
 
 ### 可持久化内存
 
@@ -61,6 +63,7 @@
 - [用 C++20 协程包装 io_uring 读取](https://zhuanlan.zhihu.com/p/357262548)
 - [ceph/io_uring.cc](https://github.com/ceph/ceph/blob/master/src/blk/kernel/io_uring.cc)
 - [folly/ioUring.cpp](https://github.com/facebook/folly/blob/master/folly/experimental/io/IoUring.cpp)
+
 ### 性能测试
 
 - [Flame Graphs](http://www.brendangregg.com/flamegraphs.html)

@@ -13,6 +13,8 @@
 - [smalldatum.blogspot.com](http://smalldatum.blogspot.com/)
 - [LSM Tree的Leveling 和 Tiering Compaction](https://zhuanlan.zhihu.com/p/112574579)
 - [Constructing and Analyzing the LSM Compaction Design Space](http://vldb.org/pvldb/vol14/p2216-sarkar.pdf)
+- [LSM-tree减少写放大的一些策略](https://zhuanlan.zhihu.com/p/65557081)
+- [Name that compaction algorithm](https://smalldatum.blogspot.com/2018/08/name-that-compaction-algorithm.html)
 
 ### 课程
 - [CMU 15-445](https://15445.courses.cs.cmu.edu/fall2021/)

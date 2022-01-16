@@ -1,5 +1,9 @@
 ## 分布式
 
+### 分布式架构体系
+
+- [分布式架构知识体系](https://zhuanlan.zhihu.com/p/57372027)
+
 ### Course Or Libs
 - [pingCAP 分布式相关实验](https://university.pingcap.com/talent-plan/)
 - [pingCAP 课程](https://university.pingcap.com/categories)
@@ -7,6 +11,8 @@
 - [MIT 6.824](https://pdos.csail.mit.edu/6.824/)
 - [MIT 6.033](http://web.mit.edu/6.033/www/)
 - [cs436](https://cs.uwaterloo.ca/~rtholmes/teaching/2011winter/cs436/index.html)
+- [cse138](https://link.zhihu.com/?target=http%3A//composition.al/CSE138-2020-03/index.html)
+
 ### MapReduce
 - [MapReduce:Simplified Data Processing on Large Clusters](https://research.google.com/archive/mapreduce-osdi04-slides/index.html)
 
@@ -32,6 +38,10 @@
 
 ### 分布式时序
 - [分布式事务中的时间戳](https://ericfu.me/timestamp-in-distributed-trans/)
+
+### 区块链
+
+- [区块链研究指北](https://zhuanlan.zhihu.com/p/354997450)
 
 ### f1
 - [Schema 变更在 Google F1 的实践](https://hhwyt.xyz/2021-03-27-online-async-schema-change-in-f1/)
