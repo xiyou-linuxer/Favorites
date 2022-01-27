@@ -31,7 +31,7 @@
 - [内存一致性模型-TSO](https://zhuanlan.zhihu.com/p/141655129)
 - [《现代操作系统 原理与实现》 第十二章：多核与多处理器](https://ipads.se.sjtu.edu.cn/mospi/)
 - [锁、内存屏障与缓存一致性](https://gocode.cc/project/9/article/128)
-
+- [https://www.cs.utexas.edu/~bornholt/post/memory-models.html](https://www.cs.utexas.edu/~bornholt/post/memory-models.html)
 
 ### 计算机架构
 

@@ -10,6 +10,9 @@
 - [comments-for-awesome-courses](https://github.com/conanhujinming/comments-for-awesome-courses/)
 - [awesome-cs-courses-zh](https://github.com/apachecn/awesome-cs-courses-zh)
 
+### 性能测试工具
+- [quick-bench](https://quick-bench.com/)
+
 ### 网页在线剪切板
 
 - [网页c/c++代码剪切板](https://wandbox.org/)
@@ -49,7 +52,6 @@
 
 - [gitter](https://gitter.im/gitter/developers)
 - [irc聊天室命令](http://quhno.internetstrahlen.de/Vivaldi/freenode-help.html#nREGISTER)
-
 
 ### 比赛
 
