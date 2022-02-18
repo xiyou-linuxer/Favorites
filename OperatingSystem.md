@@ -20,7 +20,7 @@
 - [调度器](https://www.cnblogs.com/yangguang-it/p/7267165.html)
 - [浅谈linux系统下C开发之(进程) 内存布局](https://zhuanlan.zhihu.com/p/157794925)
 
-### 内存序
+### 内存模型
 
 - [为什么程序员需要关心顺序一致性（Sequential Consistency）而不是Cache一致性（Cache Coherence？）](http://www.parallellabs.com/2010/03/06/why-should-programmer-care-about-sequential-consistency-rather-than-cache-coherence/)
 - [内存序的论文](http://irl.cs.ucla.edu/~yingdi/web/paperreading/whymb.2010.06.07c.pdf)
@@ -32,6 +32,8 @@
 - [《现代操作系统 原理与实现》 第十二章：多核与多处理器](https://ipads.se.sjtu.edu.cn/mospi/)
 - [锁、内存屏障与缓存一致性](https://gocode.cc/project/9/article/128)
 - [https://www.cs.utexas.edu/~bornholt/post/memory-models.html](https://www.cs.utexas.edu/~bornholt/post/memory-models.html)
+- [Memory Models](https://research.swtch.com/mm)
+- [内存屏障的来历](https://zhuanlan.zhihu.com/p/125549632)
 
 ### 计算机架构
 

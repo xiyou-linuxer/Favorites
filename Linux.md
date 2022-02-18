@@ -12,8 +12,8 @@
 - `mm`
 - [linux-kernel](http://vger.kernel.org/lkml/)
 
-### 新闻
-- [hack news](https://news.ycombinator.com/news)
-
 ### 源码解读
-- [品读 Linux 0.11 核心代码]( https://github.com/sunym1993/flash-linux0.11-talk )
+- [品读 Linux 0.11 核心代码]( https://github.com/sunym1993/flash-linux0.11-talk)
+
+### Docs
+- [kernel.org](https://www.kernel.org/doc/html/latest/index.html )

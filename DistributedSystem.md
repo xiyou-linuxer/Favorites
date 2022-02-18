@@ -47,11 +47,16 @@
 - [Schema 变更在 Google F1 的实践](https://hhwyt.xyz/2021-03-27-online-async-schema-change-in-f1/)
 
 ### spanner
+- [Google-Spanner论文的思考](https://www.jianshu.com/p/6ae6e7989161)
 - [cloud.gooogle.com/spanner](https://cloud.google.com/spanner/docs/whitepapers)
 
 ### CAP
 - [cap-faq](https://www.the-paper-trail.org/page/cap-faq/)
 - [CAP 理论十二年回顾："规则"变了](https://www.infoq.cn/article/cap-twelve-years-later-how-the-rules-have-changed/)
+
+### 分布式事务
+
+- [CockroachDB一致性讨论](https://zhuanlan.zhihu.com/p/462398795)
 
 ### Books
 - [设计数据密集型应用](https://github.com/Vonng/ddia)

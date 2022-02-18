@@ -64,3 +64,6 @@
 ###  论文
 
 - [acm](https://dl.acm.org/)
+
+### 新闻
+- [hack news](https://news.ycombinator.com/news)
