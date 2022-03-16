@@ -21,6 +21,7 @@
 - [raft.github.io](https://raft.github.io/)
 - [raft-zh_cn](https://github.com/maemual/raft-zh_cn/blob/master/raft-zh_cn.md)
 - [raft 优化](https://zhuanlan.zhihu.com/p/25735592)
+- [TiKV 功能介绍 - Raft 的优化](https://pingcap.com/zh/blog/optimizing-raft-in-tikv)
 
 ### Paxos
 - [Paxos lecture (Raft user study)](https://www.youtube.com/watch?v=JEpsBg0AO6o)
@@ -35,9 +36,11 @@
 - [consistency](https://jepsen.io/consistency)
 - [summarizing-consistency-model](http://r12f.com/posts/summarizing-consistency-model/)
 - [如何理解数据库的内部一致性和外部一致性？](https://www.zhihu.com/question/56073588)
+- [数据库的外部一致性](https://disksing.com/external-consistency/)
 
 ### 分布式时序
 - [分布式事务中的时间戳](https://ericfu.me/timestamp-in-distributed-trans/)
+- [计算机的时钟 系列文章](https://yang.observer/2020/07/11/time-ntp/)
 
 ### 区块链
 

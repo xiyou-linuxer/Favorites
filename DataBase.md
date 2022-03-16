@@ -39,6 +39,10 @@
 
 - [abadi-column-stores](https://www.cs.umd.edu/class/spring2015/cmsc724/abadi-column-stores.pdf)
 
+### 数据仓库 数据湖
+
+- [什么是数据湖？](https://aws.amazon.com/cn/big-data/datalakes-and-analytics/what-is-a-data-lake/)
+- [数据库 与 数据仓库的本质区别是什么？](zhihu.com/question/20623931)
 
 ### 数据库操作文档
 - [MySql 中文文档](https://www.docs4dev.com/docs/zh/mysql/5.7/reference)

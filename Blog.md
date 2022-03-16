@@ -29,9 +29,11 @@
 - [vigourtyy-zhg](https://vigourtyy-zhg.blog.csdn.net/)
 - [catkang](catkang.github.io)
 - [ericfu](https://ericfu.me/)
-- [z_stand](https://vigourtyy-zhg.blog.csdn.net/）
+- [z_stand](https://vigourtyy-zhg.blog.csdn.net/)
+- [nan01ab](https://nan01ab.github.io/archive)
 
 ### 知乎
+
 - [迟策](https://www.zhihu.com/people/SkyZH)
 - [孙孟越](https://www.zhihu.com/people/stevensun-8)
 - [胡津铭](https://www.zhihu.com/people/hu-jin-ming-31)

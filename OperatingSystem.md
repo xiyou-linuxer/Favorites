@@ -107,3 +107,7 @@
 ### nonblock
 - [nonblock](https://www.remlab.net/op/nonblock.shtml)
 - [why-non-blocking-write-to-disk-doesnt-return-eagain-or-ewouldblock](https://stackoverflow.com/questions/28522848/why-non-blocking-write-to-disk-doesnt-return-eagain-or-ewouldblock)
+
+### SIMD
+- [SIMD 单指令流多数据流](https://zh.wikipedia.org/wiki/%E5%8D%95%E6%8C%87%E4%BB%A4%E6%B5%81%E5%A4%9A%E6%95%B0%E6%8D%AE%E6%B5%81)
+- [SIMD 编程基础](http://ftp.cvut.cz/kernel/people/geoff/cell/ps3-linux-docs/CellProgrammingTutorial/BasicsOfSIMDProgramming.html)
