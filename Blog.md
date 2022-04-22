@@ -31,6 +31,7 @@
 - [ericfu](https://ericfu.me/)
 - [z_stand](https://vigourtyy-zhg.blog.csdn.net/)
 - [nan01ab](https://nan01ab.github.io/archive)
+- [Farseerfc 的小窝](https://farseerfc.me/zhs/)
 
 ### 知乎
 

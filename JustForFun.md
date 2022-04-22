@@ -67,3 +67,6 @@
 
 ### 新闻
 - [hack news](https://news.ycombinator.com/news)
+
+### 翻译工具
+- [deepl](https://www.deepl.com/zh/translator/files)

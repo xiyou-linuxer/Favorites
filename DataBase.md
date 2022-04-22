@@ -15,6 +15,8 @@
 - [Constructing and Analyzing the LSM Compaction Design Space](http://vldb.org/pvldb/vol14/p2216-sarkar.pdf)
 - [LSM-tree减少写放大的一些策略](https://zhuanlan.zhihu.com/p/65557081)
 - [Name that compaction algorithm](https://smalldatum.blogspot.com/2018/08/name-that-compaction-algorithm.html)
+- [WiscKey: Separating Keys from Values in SSD-conscious Storage 翻译](https://axlgrep.github.io/tech/WiscKey.html)
+
 
 ### 课程
 - [CMU 15-445](https://15445.courses.cs.cmu.edu/fall2021/)
@@ -24,6 +26,10 @@
 - [MIT 6.830](http://dsg.csail.mit.edu/6.830/sched.php)
 - [HARVARD CS265](http://daslab.seas.harvard.edu/classes/cs265/index.html#overview)
 
+
+### 云原生数据库
+
+- [云原生数据库设计新思路 黄东旭](https://pingcap.com/zh/blog/new-ideas-for-designing-cloud-native-database)
 
 ### 书籍
 

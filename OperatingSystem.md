@@ -82,7 +82,7 @@
 - [操作系统实战45讲](https://time.geekbang.org/column/intro/411)
 * 《Operating Systems Three Easy pieces》(OSTEP 操作系统导论)
 - [深入理解计算机系统（含中文字幕）](https://www.bilibili.com/video/BV1iW411d7hd)
-
+- [CS 326 操作系统](https://www.cs.usfca.edu/~mmalensek/cs326/schedule/)
 ### 自制操作系统
 
 - [Simple kernel](https://github.com/Simple-XX/SimpleKernel)
