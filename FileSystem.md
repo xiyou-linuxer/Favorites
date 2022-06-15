@@ -7,7 +7,7 @@
 * [xv6:FileSystem 翻译（比github上很多都好）](https://zhuanlan.zhihu.com/p/353830885)
 * [同上](https://zhuanlan.zhihu.com/p/356030867)
 ---
-### DAX 系列**
+### DAX 系列
 * [DAX - fsdax](https://lostjeffle.bitcron.com/post/blog/mweb/docs/16018006548876)
 * [DAX - fsdax - Read/Write](https://lostjeffle.bitcron.com/post/blog/mweb/docs/16359055244948)
 * [DAX - fsdax - memmap](https://lostjeffle.bitcron.com/post/blog/mweb/docs/16361021573620)
