@@ -9,6 +9,7 @@
 - [加州伯克利分校课程整理](https://zhuanlan.zhihu.com/p/392093161)
 - [comments-for-awesome-courses](https://github.com/conanhujinming/comments-for-awesome-courses/)
 - [awesome-cs-courses-zh](https://github.com/apachecn/awesome-cs-courses-zh)
+- [cs自学指南](https://csdiy.wiki/)
 
 ### 性能测试工具
 - [quick-bench](https://quick-bench.com/)
