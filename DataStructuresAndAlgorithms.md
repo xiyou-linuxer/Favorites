@@ -21,7 +21,7 @@
 - [数据结构可视化1](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
 - [数据结构可视化2](https://visualgo.net/en)
 - [Graphviz - Graph Visualization Software](https://graphviz.org/)
-- [labuladong的算法小抄](https://github.com/xiyou-linuxer/Favorites.git)
+- [labuladong的算法小抄](https://labuladong.github.io/algo/)
 
 
 ### 时间复杂度
