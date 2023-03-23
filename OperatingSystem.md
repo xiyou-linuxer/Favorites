@@ -98,6 +98,7 @@
 - [A description of what robust futexes are](https://www.kernel.org/doc/Documentation/robust-futexes.txt)
 
 #### cgroup 和 namespace
+- [Chapter 25. Using cgroups-v2 to control distribution of CPU time for applications](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/8/html/managing_monitoring_and_updating_the_kernel/using-cgroups-v2-to-control-distribution-of-cpu-time-for-applications_managing-monitoring-and-updating-the-kernel)
 - [cgroup-v2](https://www.kernel.org/doc/Documentation/cgroup-v2.txt)
 - [intel Namespaces and cgroups](https://netdevconf.info/1.1/proceedings/slides/rosen-namespaces-cgroups-lxc.pdf)
 - [Linux kernel Namespaces and cgroups](http://www.haifux.org/lectures/299/netLec7.pdf)
