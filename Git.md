@@ -18,6 +18,7 @@
 - [git add,commit原理](https://juejin.cn/post/6844904121695207437)
 - [Git 工作区，暂存区，代码库原理](https://medium.com/hackernoon/understanding-git-index-4821a0765cf)
 - [Git 原理 ppt](https://docs.google.com/presentation/d/1IQCRPHEIX-qKo7QFxsD3V62yhyGA9_5YsYXFOiBpgkk/edit#slide=id.g4d6b1121f4_0_4)
+- [How different are different diff algorithms in Git?]（https://link.springer.com/article/10.1007/s10664-019-09772-z)
 
 ### Git 社区
 
