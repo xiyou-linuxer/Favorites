@@ -26,6 +26,7 @@
 - [汇编](Asm.md)
 - [有趣的地方](JustForFun.md)
 - [博客](Blog.md)
+- [密码学工具](Sercet.md)
 
 ### Contribute
 
