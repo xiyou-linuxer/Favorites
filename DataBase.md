@@ -1,9 +1,13 @@
 ## 数据库
 
 ### 磁盘
+
 - [磁盘I/O那些事](https://tech.meituan.com/2017/05/19/about-desk-io.html)
+- [NVMe驱动时代，顺序IO已死？](https://jack-vanlightly.com/blog/2023/5/9/is-sequential-io-dead-in-the-era-of-the-nvme-drive)
 
 ### LSM-Tree
+
+- [how-rocksdb-works](https://artem.krylysov.com/blog/2023/04/19/how-rocksdb-works/)
 - [cs265 lsm-tree project](http://daslab.seas.harvard.edu/classes/cs265/project.html)
 - [【Paper笔记】The Log structured Merge-Tree（LSM-Tree）](https://kernelmaker.github.io/lsm-tree)
 - [google/leveldb](https://github.com/google/leveldb)
