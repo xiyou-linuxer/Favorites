@@ -29,6 +29,7 @@
 ### Git 实现
 
 - [教你写自己的git(python)](https://wyag.thb.lt/#org73cbeb2)
+- [ugit: DIY Git in Python](https://www.leshenko.net/p/ugit/)
 
 ### Git 工具
 - [gitkraken](https://www.gitkraken.com/)
