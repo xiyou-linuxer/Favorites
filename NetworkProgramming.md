@@ -61,3 +61,7 @@
 ### 架构
 
 - [深入架构原理与实践](https://www.thebyte.com.cn/intro.html)
+
+### 书籍
+
+- [High Performance Browser Networking(https://hpbn.co/)
