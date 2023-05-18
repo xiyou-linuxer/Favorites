@@ -2,6 +2,7 @@
 
 
 ### Golang
+- [go-training/training](https://github.com/go-training/training)
 - [free-programming-books](https://github.com/EbookFoundation/free-programming-books)
 - [Master Go (zh_cn)](https://github.com/hantmac/Mastering_Go_ZH_CN)
 - [Go 语言圣经(zh_cn)](https://github.com/gopl-zh/gopl-zh.github.com)
