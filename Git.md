@@ -52,3 +52,8 @@
 ### git books
 
 - [Git & Gitlab 学习书籍分享](https://chegva.com/3138.html)
+
+### 开源 git 代码平台
+
+- [gitea](https://github.com/go-gitea/gitea)
+- [gitlab](https://gitlab.com/gitlab-org)
