@@ -83,21 +83,24 @@
 * 《Operating Systems Three Easy pieces》(OSTEP 操作系统导论)
 - [深入理解计算机系统（含中文字幕）](https://www.bilibili.com/video/BV1iW411d7hd)
 - [CS 326 操作系统](https://www.cs.usfca.edu/~mmalensek/cs326/schedule/)
+
 ### 自制操作系统
 
 - [Simple kernel](https://github.com/Simple-XX/SimpleKernel)
 - [How-to-Make-a-Computer-Operating-System](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System)
+
 ### Linux 技术
 
 - [/proc 文档](http://lxr.linux.no/linux+v2.6.32/Documentation/filesystems/proc.txt)
 - [你管这破玩意叫操作系统源码](https://github.com/sunym1993/flash-linux0.11-talk)
 
-#### futex
+### futex
 - [futex.pdf](https://akkadia.org/drepper/futex.pdf)
 - [Requeue-PI: Making Glibc Condvars PI-Aware](https://static.lwn.net/images/conf/rtlws11/papers/proc/p10.pdf)
 - [A description of what robust futexes are](https://www.kernel.org/doc/Documentation/robust-futexes.txt)
 
-#### cgroup 和 namespace
+### cgroup 和 namespace
+
 - [Chapter 25. Using cgroups-v2 to control distribution of CPU time for applications](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/8/html/managing_monitoring_and_updating_the_kernel/using-cgroups-v2-to-control-distribution-of-cpu-time-for-applications_managing-monitoring-and-updating-the-kernel)
 - [cgroup-v2](https://www.kernel.org/doc/Documentation/cgroup-v2.txt)
 - [intel Namespaces and cgroups](https://netdevconf.info/1.1/proceedings/slides/rosen-namespaces-cgroups-lxc.pdf)
@@ -106,9 +109,11 @@
 - [chroot](https://www.cnblogs.com/sparkdev/p/8556075.html)
 
 ### nonblock
+
 - [nonblock](https://www.remlab.net/op/nonblock.shtml)
 - [why-non-blocking-write-to-disk-doesnt-return-eagain-or-ewouldblock](https://stackoverflow.com/questions/28522848/why-non-blocking-write-to-disk-doesnt-return-eagain-or-ewouldblock)
 
 ### SIMD
+
 - [SIMD 单指令流多数据流](https://zh.wikipedia.org/wiki/%E5%8D%95%E6%8C%87%E4%BB%A4%E6%B5%81%E5%A4%9A%E6%95%B0%E6%8D%AE%E6%B5%81)
 - [SIMD 编程基础](http://ftp.cvut.cz/kernel/people/geoff/cell/ps3-linux-docs/CellProgrammingTutorial/BasicsOfSIMDProgramming.html)
